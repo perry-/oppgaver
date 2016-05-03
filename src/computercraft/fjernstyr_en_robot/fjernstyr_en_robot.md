@@ -68,7 +68,7 @@ operativsystemer:
 
 * Windows: `AppData\Roaming\.minecraft\saves\navn-på-din-save\computer\id`
 * Linux: `~/.minecraft/saves/navn-på-din-save/computer/id`
-* Mac: `Application Support/.minecraft/saves/navn-på-din-save/computer/id`
+* Mac: `~/Library/Application Support/.minecraft/saves/navn-på-din-save/computer/id`
 
 Vil du redigere filen `hello` fra spillet "Kodeklubben 2016" på datamskin #3 på
 Windows finner du den altså på `AppData\Roaming\.minecraft\saves\Kodeklubben 2016\computer\3\hello`.
